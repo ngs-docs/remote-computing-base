@@ -1,7 +1,0 @@
-pkgs_dirs:
-  - ~/.conda/pkgs
-  - /home/ctbrown/remote-computing.cache
-channels:
-  - conda-forge
-  - bioconda
-  - defaults
